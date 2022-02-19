@@ -1,2 +1,4 @@
-### Sinan Mutlu, Electrical Engineer, YTU
-#### Front-End Newbie
+### Sinan Mutlu, Engineer, YTU
+#### Software Dev Newbie
+#### HTML / CSS / JS /
+#### C# / .NET / MsSQL / GIT
